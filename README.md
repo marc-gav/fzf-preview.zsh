@@ -78,7 +78,7 @@ or
 
 ```shell
 $ git clone https://github.com/yuki-ycino/fzf-preview.zsh.git
-$ cat "source /path/to/dir/fzf-preview.zsh" >> ~/.zshrc
+$ echo "source /path/to/dir/fzf-preview.zsh" >> ~/.zshrc
 ```
 
 ### Add .zshrc
